@@ -6,5 +6,6 @@
 * 3. when parse json file, error: Unexpected token ILLEGAL
 * 4. Hardware Acceleration Hack: when use transform at android, the animation will blink after animation done. 
 * 5. Ajax error! A XMLHttpRequest be aborted unexpect.
+* 6. Android---Phonegap: startActivity( loadUrl(url, 10000); ), add 10000 will delay script execute.
 
 
