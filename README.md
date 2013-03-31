@@ -5,6 +5,6 @@ Develop Notes
    
    
 ##分类   
-* 1.[Android](./android/README.md)   
-* 2.[Phonegap](./phonegap/README.md)   
-* 3.[Web](./web/README.md)   
+* [Android](./android/README.md)   
+* [Phonegap](./phonegap/README.md)   
+* [Web](./web/README.md)   
