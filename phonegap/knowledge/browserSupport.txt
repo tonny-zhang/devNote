@@ -1,0 +1,17 @@
+###########################################
+# browser support and not support features
+###########################################
+
+1. Support
+    (1).touch event
+        touchstart, touchend, touchmove
+
+       
+2. Unsupport
+    (2).touch event
+        touchenter, touchleave, touchcacel
+
+3. Android
+    Android 2.3 and below don't detect multiple touch.
+
+
