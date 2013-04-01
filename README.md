@@ -8,3 +8,4 @@ Develop Notes
 * [Android](./android/README.md)   
 * [Phonegap](./phonegap/README.md)   
 * [Web](./web/README.md)   
+* [Shell](./shell/)
