@@ -1,0 +1,15 @@
+##################################
+# stay on login window bug
+##################################
+
+Bug describle:
+    Type password at login window, the screen blink and back to login window. But other accounts or users can login the desktop, and the account still can login the shell.
+
+
+Bug fix:
+    check the ~/.Xauthority permission.
+    If this file is owned by root, should change it back to user.
+    -r-------- root root .Xauthority (before)
+    -r-------- user user .Xauthority (after)
+
+
