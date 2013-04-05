@@ -9,3 +9,4 @@ Develop Notes
 * [Phonegap](./phonegap/)   
 * [Web](./web/)   
 * [Shell](./shell/)
+* [Programming Pearls](./ppearls/) Second Edition
