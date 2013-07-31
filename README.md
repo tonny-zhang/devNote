@@ -7,6 +7,8 @@ Develop Notes
 ##分类   
 * [Android](./android/)   
 * [Phonegap](./phonegap/)   
+* [node.js](./nodejs/)
 * [Web](./web/)   
 * [Shell](./shell/)
 * [Programming Pearls](./ppearls/) Second Edition
+

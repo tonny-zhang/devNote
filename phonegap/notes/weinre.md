@@ -5,11 +5,13 @@
     ```
       $ npm -g install weinre
     ```
+   
 `
+   
     Notice: You should install nodejs and npm first.
    
 2.start weinre
-    $ weinre --boundHost __IP_address__ --httpPort __port__
+    $ weinre --boundHost _IP_address_ --httpPort _port_
 
 > Notice: Then weire will startup at special ip address what you typed.
 > You should type in a effective ip. If you use localhost or 127.0.0.1, then you can't debug application in you device.
@@ -17,7 +19,7 @@
 
    
 3.open browser
-    Open your chrome, goto http://__IP_address__:__port__.
+    Open your chrome, goto http:// __IP_address__ : __port__ .
   
     Notice: You can change the ip address and the httpPort. It's defined by you when start weinre.
 
